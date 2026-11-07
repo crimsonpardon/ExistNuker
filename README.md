@@ -120,6 +120,6 @@ Press `Ctrl+C` at any time to stop all running operations.
 
 <div align="center">
 
-*Created by [Exist](https://github.com/crimsonpardon)*
+*Created by [crimson](https://github.com/crimsonpardon)*
 
 </div>
